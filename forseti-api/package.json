@@ -31,7 +31,7 @@
 		"acorn-globals": "^6.0.0",
 		"axios": "^0.21.1",
 		"body-parser": "^1.18.3",
-		"braces": "^3.0.2",
+		"braces": "^3.0.3",
 		"compression": "^1.7.3",
 		"cors": "^2.8.4",
 		"eslint-utils": "^1.4.3",
